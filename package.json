@@ -1,32 +1,7 @@
 {
-  "name": "smartcity_logistics_rtd",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-    
-  },
   "dependencies": {
-    "@emailjs/browser": "^4.4.1",
-    "axios": "^1.7.9",
-    "bootstrap": "^5.3.3",
-    "cors": "^2.8.5",
-    "express": "^4.21.1",
-    "firebase": "^10.13.2",
-    "firebase-admin": "^12.6.0",
-    "mongodb": "^6.9.0",
-    "mongoose": "^8.7.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^6.26.2"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.2",
-    "vite": "^5.4.8"
+    "firebase": "^12.10.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
   }
 }
